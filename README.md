@@ -7,7 +7,9 @@ React COVID-19 Tracker is React application that tracks COVID-19 cases all over 
 It can also track COVID-19 cases of specific countries. It has interactive google maps.
 
 <hr />
+
 ![screenshot](https://github.com/endalk200/COVID-19-Tracker/blob/main/public/Screenshot.png)
+
 <hr />
 ## Available Scripts
 
